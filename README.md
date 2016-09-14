@@ -1,5 +1,5 @@
 Erick Sauri
-# midnightcruise
+# Midnight Cruise
 Rolling on Random
 
 List of user functionality:

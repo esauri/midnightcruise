@@ -1,13 +1,17 @@
-Erick Sauri
 # Midnight Cruise
-Rolling on Random
+## Processing
+### Spring 2015
 
-List of user functionality:
-Sit back
-Play some relaxing music
-Enjoy the night ride
+![Midnight Cruise Screenshot](https://people.rit.edu/ejs3863/oldportfolio2/midnightcruise/media/midnightcruise.png "Midnight Cruise")
 
-Reasoning behind design choices:
+#### Rolling on Random
+
+##### User functionality:
+* Sit back
+* Play some relaxing music
+* Enjoy the night ride
+
+##### Design choices:
 
 For this assignment I decided to create a spaceship that wanders a nocturnal world’s surface so that we can observe some of the landscape of the planet as well as whatever wonders (and horrors) like in outer space. For this reason my sketch has that horizontally movement feeling. I also decided to showcase some of the world’s weather by adding in blizzards and drizzles. The user can see what lies beyond the planet and for this I added several stars, a ringed planet, UFOs, the Death Star and the Flying Spaghetti monster.
 
